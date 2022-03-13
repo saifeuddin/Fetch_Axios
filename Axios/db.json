@@ -1,0 +1,56 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "category": "electonics",
+      "price": "4000"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "category": "plastic",
+      "price": "4000"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "category": "electonics",
+      "price": "2000"
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "category": "plastic",
+      "price": "2000"
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "category": "video games",
+      "price": "1000"
+    },
+    {
+      "id": 6,
+      "title": "Product 6",
+      "category": "kitchen",
+      "price": "4000",
+      "discount": {
+        "type": "special"
+      },
+      "reviewId": 1
+    },
+    {
+      "id": 7,
+      "title": "Test food",
+      "category": "food",
+      "price": 3000
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "contactId": 1
+    }
+  ]
+}
